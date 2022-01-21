@@ -1,4 +1,4 @@
-package parte.c;
+package desafios.c;
 
 import java.util.Scanner;
 

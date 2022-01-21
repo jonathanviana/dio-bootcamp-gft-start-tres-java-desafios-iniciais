@@ -3,7 +3,7 @@
 
 Nota: realizei pequenas alterações nos nomes das váriaveis, divergente ao enunciado. O desafio de fato foi entregue via plataforma da Digital Innovation One.
 
-## [parte.a]
+## [desafios.a]
 
 ### Enunciado:
 
@@ -25,7 +25,7 @@ entrada = 3, 9;
 saida = multiplicação = 27;
 
 
-## [parte.b]
+## [desafios.b]
 
 ### Enunciado:
 
@@ -44,7 +44,7 @@ Exemplo:
 entrada = 13
 saida = 2, 15, 28, 41 ... 
 
-## [parte.c]
+## [desafios.c]
 
 ### Enunciado:
 

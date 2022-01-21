@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7db918-e865-415d-a656-77b2c2430927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dio-bootcamp-gft-start-tres-java-desafios-iniciais.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1d7db918-e865-415d-a656-77b2c2430927" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +34,11 @@
   </component>
   <component name="RunManager" selected="Application.ParteC">
     <configuration name="ParteA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parte.a.ParteA" />
+      <option name="MAIN_CLASS_NAME" value="desafios.a.ParteA" />
       <module name="dio-bootcamp-gft-start-tres-java-desafios-iniciais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parte.a.*" />
+          <option name="PATTERN" value="desafios.a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,11 +47,11 @@
       </method>
     </configuration>
     <configuration name="ParteB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parte.b.ParteB" />
+      <option name="MAIN_CLASS_NAME" value="desafios.b.ParteB" />
       <module name="dio-bootcamp-gft-start-tres-java-desafios-iniciais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parte.b.*" />
+          <option name="PATTERN" value="desafios.b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +60,11 @@
       </method>
     </configuration>
     <configuration name="ParteC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parte.c.ParteC" />
+      <option name="MAIN_CLASS_NAME" value="desafios.c.ParteC" />
       <module name="dio-bootcamp-gft-start-tres-java-desafios-iniciais" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parte.c.*" />
+          <option name="PATTERN" value="desafios.c.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

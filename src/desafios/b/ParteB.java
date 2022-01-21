@@ -1,4 +1,4 @@
-package parte.b;
+package desafios.b;
 
 import java.util.Scanner;
 
