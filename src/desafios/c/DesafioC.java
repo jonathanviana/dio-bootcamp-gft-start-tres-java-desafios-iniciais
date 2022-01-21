@@ -2,7 +2,7 @@ package desafios.c;
 
 import java.util.Scanner;
 
-public class ParteC {
+public class DesafioC {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

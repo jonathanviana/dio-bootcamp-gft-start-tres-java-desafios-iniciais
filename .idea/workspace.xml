@@ -31,10 +31,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ParteC">
-    <configuration name="ParteA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios.a.ParteA" />
+  <component name="RunManager" selected="Application.DesafioC">
+    <configuration name="DesafioA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.a.DesafioA" />
       <module name="dio-bootcamp-gft-start-tres-java-desafios-iniciais" />
       <extension name="coverage">
         <pattern>
@@ -46,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParteB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios.b.ParteB" />
+    <configuration name="DesafioB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.b.DesafioB" />
       <module name="dio-bootcamp-gft-start-tres-java-desafios-iniciais" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParteC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios.c.ParteC" />
+    <configuration name="DesafioC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.c.DesafioC" />
       <module name="dio-bootcamp-gft-start-tres-java-desafios-iniciais" />
       <extension name="coverage">
         <pattern>
@@ -74,9 +75,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParteC" />
-        <item itemvalue="Application.ParteB" />
-        <item itemvalue="Application.ParteA" />
+        <item itemvalue="Application.DesafioC" />
+        <item itemvalue="Application.DesafioB" />
+        <item itemvalue="Application.DesafioA" />
       </list>
     </recent_temporary>
   </component>
